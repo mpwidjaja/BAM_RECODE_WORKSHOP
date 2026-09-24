@@ -5,3 +5,4 @@
     3. Add this file
     4. Commit with message
     5. Push file to GitHub
+    6. Try Delete
